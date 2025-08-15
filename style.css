@@ -1,2 +1,6 @@
 p {
-  color: fd6d2f }
+  color: orange }
+html, body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(to right, #dfafdb, #ffffff);}
