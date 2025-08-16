@@ -8,6 +8,10 @@ html, body {
 li {
   color: white
 }
+h1 {
+  font: Montserrat 
+}
 h4 {
-  color: white
+  color: white;
+  font: Montserrat 
 }
